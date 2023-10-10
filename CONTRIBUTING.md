@@ -11,8 +11,9 @@
 6. Replace `Your Description` with a brief description about yourself.
 7. Create a Pull Request to this repository.
 8. Once your Pull Request is merged, your name will be added to the list of contributors.
+![image](https://github.com/pypimo/cses-solutions/assets/60395555/ac6171bf-2801-4eec-ae12-ca3368dbf458)
 -->
 
 | Name               | Place                  | About                                          |
 |--------------------|------------------------|------------------------------------------------|
-|[Prapti Bhardwaj](https://github.com/pypimo)   | <img src="![image](https://github.com/pypimo/cses-solutions/assets/60395555/ac6171bf-2801-4eec-ae12-ca3368dbf458)" alt="India" width="32" height="32"> | eager learner who enjoys to code |
+|[Prapti Bhardwaj](https://github.com/pypimo)   | <img src="https://github.com/pypimo/cses-solutions/assets/60395555/ac6171bf-2801-4eec-ae12-ca3368dbf458" alt="India" width="32" height="32"> | eager learner who enjoys to code |
