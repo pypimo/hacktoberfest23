@@ -10,11 +10,13 @@ Sign up anytime between October 1 and October 31.
 
 ## Star and fork this repository to begin !!
 Make your first PR! Add your solutions to the [cses-problemset](https://cses.fi/problemset)
-Submit your pull request here for cses-solutions in any language you prefer 
+Submit your pull request here for cses-solutions in any language you prefer or add documentation/approaches for a problem
 
 # Getting Started
 
 ## How to contribute
+You can either add code for solutions or contribute to the documentation.
+
 1. Fork this repo
 2. Clone it in your local machine (steps given below)
 3. Create a new-branch in that repo
@@ -22,11 +24,12 @@ Submit your pull request here for cses-solutions in any language you prefer
 5. Add the solution for a problem by creating a file and naming it as `problemName-languageExtension`.  For example - `weirdAlgorithm.cpp` if you are using c++ to solve the problem [Weird Algorithm](https://cses.fi/problemset/task/1068).
 6. Comment out the link for problem at the top
 7. If the file already exists, update the solution in it if you think your code is more standard or efficient
-8. Sync your repo clone with this repo.
-9. Give a short description for your pull request and create a pull request.
+8. Sync your fork
+9. Create a pull request.
 
-All languages are accepted. Please do not make spammy pull requests.
-Just make sure to add the file under the correct directory. Happy contributing!
+All languages are accepted. Please do not make spammy pull requests. Happy contributing!
+
+## Add you name to contributors.md file
 
 ## Instructions:
 
